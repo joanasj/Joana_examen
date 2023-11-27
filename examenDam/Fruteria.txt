@@ -1,4 +1,2 @@
-1.Manzana
-2.Pera
-3.Sandia
-4.Naranja
+Manzana
+Pera
